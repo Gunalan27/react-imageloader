@@ -1,0 +1,32 @@
+.heading {
+  text-align: center;
+}
+
+.form{ 
+  position: relative;
+  top: 2%;
+  left: 20%;
+  align-items: center;
+  align-self: center;
+  width: 1000px;
+}
+
+h1{
+  text-align: center;
+  font-weight: 630;
+  color: black;
+  font-size: 50px;
+}
+button{
+  width: 1000px;
+  height: 30px;
+  color:white;
+  font-weight: 700;
+  border-radius: 5px;
+  background-blend-mode: lighten;
+  background-color:rgb(4, 70, 85);
+}
+h5{
+  font-style: normal;
+  font-weight: 0;
+}
